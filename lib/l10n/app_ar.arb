@@ -1,7 +1,7 @@
 {
   "@_CORE": {
   },
-  "appName": "Deliverzler",
+  "appName": "Kurirman",
   "fontFamily": "tajawal",
   "noInternetConnection": "لا يوجد اتصال بالانترنت",
   "pleaseCheckYourDeviceNetwork": "الرجاء إصلاح اتصالك بالانترنت.",
@@ -68,6 +68,7 @@
   },
   "english": "الإنجليزية",
   "arabic": "العربية",
+    "bahasa": "الأندونيسية",
   "settings": "الإعدادات",
   "profileSettings": "إعدادات الملف الشخصي",
   "appSettings": "إعدادات التطبيق",

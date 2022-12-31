@@ -69,12 +69,12 @@
   },
   "english": "English",
   "arabic": "Arabic",
-  "bahasa": "Bahasa",
+  "indonesia": "Indonesia",
   "settings": "Settings",
   "profileSettings": "Profile Settings",
   "appSettings": "App Settings",
   "theme": "Theme",
-  "language": "Language",
+  "language": "Bahasa",
   "selectYourPreferredLanguage": "Select Your Preferred Language",
   "@_PROFILE": {
   },
@@ -118,8 +118,8 @@
       "You\"re close to location area. Order delivery confirmation has enabled.",
   "@_MAP": {
   },
-  "searchForAPlace": "Search for a place...",
-  "myCurrentLocation": "My current location",
-  "pleaseSearchForLocation": "Please search for the location!",
-  "userHasNotProvidedLocation": "User hasn't provided his location point."
+  "searchForAPlace": "Mencari sebuah tempat...",
+  "myCurrentLocation": "Lokasi saya sekarang",
+  "pleaseSearchForLocation": "Silahkan cari lokasi!",
+  "userHasNotProvidedLocation": "Pengguna belum menyediakan titik lokasinya"
 }
